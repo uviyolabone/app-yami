@@ -1,2 +1,2 @@
 # app-yami
-A demo of a java app developed in mave
+A demo of building a java app using apache maven.
